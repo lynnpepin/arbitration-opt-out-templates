@@ -10,6 +10,7 @@ This repository provides templates to opt out of arbitration clauses (and relate
 # Quick links to opt out templates
 
 - [Discord](/Discord)
+
 - [Snapchat](/Snapchat)
 
 
@@ -21,10 +22,11 @@ Each service is listed in a folder. At minimum, please include:
   - A link to the service Terms of Service
   - A last-update date
   - Instructions on how to opt-out
-- The opt-out template following said ToS, in **at least** these three formats:
+- The opt-out template in at least the following formats:
   - Markdown (`.md`)
-  - PDF
-  - .docx
+  - For opt-outs which require printing:
+    - PDF
+    - .docx
 
 In the per-service README, you are welcome to include any relevant articles or legal cases involving the service and arbitration. You are also welcome to provide a summary of the arbitration clause, related clauses, and the opt-out provisions.
 

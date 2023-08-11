@@ -6,7 +6,14 @@ Updated: 2023-Aug-15th.
 
 # Using the template
 
-To opt out of Snapchat's arbitration clause in the United States, use[this template](./snapchat_opt_out_template.md):
+To opt out of Snapchat's arbitration clause in the United States, use one of these templates:
+
+ - [Click here for a Markdown opt-out template](./snapchat_opt_out_template.md):
+
+ - Click here for a Microsoft Word opt-out template. (Coming soon!)
+
+ - Click here for a PDF opt-out template. (Coming soon!)
+
 
 1. Fill out the following six locations:
 
@@ -66,8 +73,10 @@ The opt-out provision requires the following:
 
 # Related cases
 
-SnapChat's arbitration clause has been enforced in the past. Most recently, in 2022, an Illinois Seventh Circuit judge ruled in Snapchat's favor to [enforce the arbitration clause the plaintiff entered at only 11 years old](https://madisonrecord.com/stories/622501604-arbitration-not-class-action-is-route-to-settling-youth-s-snapchat-privacy-dispute-seventh-circuit-rules).
+Snapchat's arbitration clause has been enforced in the past. Most recently, in 2022, an Illinois Seventh Circuit judge ruled in Snapchat's favor to [enforce the arbitration clause the plaintiff entered at only 11 years old](https://madisonrecord.com/stories/622501604-arbitration-not-class-action-is-route-to-settling-youth-s-snapchat-privacy-dispute-seventh-circuit-rules).
 
-Snapchat succesfully argued "the arbitration provision wasn’t difficult to find, read, or understand" and that the 11 year old child was indeed able to consnet.
+Despite the fact that the child was only 11 years old, the court ruled in favor of Snapchat. Snapchat argued "the arbitration provision wasn’t difficult to find, read, or understand", and Snapchat argued that the child was capable of giving consent.
 
-In 2017, Snapchat was able to [shut-down a whistleblower](https://variety.com/2018/digital/news/snapchat-judge-pompliano-arbitration-1202750638/) when a federal judge enforced the arbitration clause from a 2015 employment contract.
+In a separate 2017 case, Snapchat was able to [shut-down a whistleblower](https://variety.com/2018/digital/news/snapchat-judge-pompliano-arbitration-1202750638/) when a federal judge enforced the arbitration clause from a 2015 employment contract.
+
+As of this writing, [Discord and Snapchat have an active case alleging the financial and sexual exploitation of an eleven year old, facilitated by the Discord platform.](https://socialmediavictims.org/press-releases/smvlc-files-first-lawsuit-against-roblox-discord/). The lawsuit is able to proceed because [the plaintiffs are her parents, who do not use Snapchat or Discord, and are not bound by their clauses](https://socialmediavictims.org/wp-content/uploads/2022/10/C.U.-S.U.-Complaint-10_4_22-Filed.pdf).
