@@ -7,17 +7,17 @@ Updated: 2023-Mar-27.
 
 # Using the template
 
-To opt out of Discord's arbitration clause in the United States, use one of these templates:
-
- - Click here for a Markdown opt-out template. (Coming soon!) 
-
- - Click here for a Microsoft Word opt-out template. (Coming soon!)
-
- - Click here for a PDF opt-out template. (Coming soon!)
+To opt out of Discord's arbitration clause in the United States, **[click here for an emailable template.](./discord_opt_out_template.md)**
 
 1. Fill out the following sections:
 
-2. Email your opt-out to [arbitration-opt-out@discord.com](mailto:arbitration-opt-out@discord.com)
+    - Username
+
+    - Email
+
+    - Signature
+
+2. Email your opt-out notice to [arbitration-opt-out@discord.com](mailto:arbitration-opt-out@discord.com)
 
 
 # Discord arbitration summary
