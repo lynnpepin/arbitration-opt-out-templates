@@ -9,7 +9,7 @@ Updated: 2023-Mar-27.
 
 # Using the template
 
-To opt out of Discord's arbitration clause in the United States, **[click here for an emailable template.](./discord_opt_out_template.md)**
+To opt out of Discord's arbitration clause in the United States, **[opt-out notice template](./discord_opt_out_template.md)**.
 
 1. Fill out the following sections:
 

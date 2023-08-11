@@ -32,7 +32,7 @@ To opt out of Snapchat's arbitration clause in the United States, use one of the
 
     6. Signature (if printed)
 
-2. Send the clause to Snapchat by:
+2. Send the opt-out notice to Snapchat by:
 
     1. Emailing them at [arbitration-opt-out@snap.com](mailto:arbitration-opt-out@snap.com), or
 
