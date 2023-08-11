@@ -1,26 +1,34 @@
 Arbitration Opt-Out Templates
 ===
 
-# TODOs
- - Discord and Snapchat
- - Why opt out of forced-arbitration and class-action waivers?
- - Contribution guidelines:
-   - Markdown, docx, and PDF at minimum!
-   - Per-folder README.md
-     - Template: Title, email to / print to, link to full repo.
+**Reclaim your basic legal rights by opting out of arbitration!**
 
- - License: CC-BY-SA 4.0
-   - We're not even sure if we *need* a license, but this gives you permission to use and copy these templates wholesale
-   - SA lets us incorporate other CC-BY-SA content
+This repository provides templates to opt out of arbitration clauses (and related) in the United States. [Arbitration clauses](https://en.wikipedia.org/wiki/Arbitration_in_the_United_States#Arbitration_clauses) ask consumers to give up their right to sue a corporation in court, and often prohibit them from suing in a class-basis, or even pursuing arbitration with a lawyer as representation.
 
-# 
+**Important:** This repository is not produced by lawyers, does not constitute legal advice, and we are not your representatives.
 
-# Arbitration opt-out templates
+# Quick links to opt out templates
 
-Friendly templates to make it easy for you to opt-out of arbitration clauses.
+- [Discord](/Discord)
+- [Snapchat](/Snapchat)
 
-**This repository was not made by a lawyer, we 
 
-## Contribution guidelines:
 
- 
+# Contribution
+
+Each service is listed in a folder. At minimum, please include:
+
+- A **README.md** which includes:
+  - A link to the service Terms of Service
+  - A last-update date
+  - Instructions on how to opt-out
+- The opt-out template following said ToS, in **at least** these three formats:
+  - Markdown (`.md`)
+  - PDF
+  - .docx
+
+In the per-service README, you are welcome to include any relevant articles or legal cases involving the service and arbitration.
+
+# License
+
+Consider the contents of this repository to be `CC-BY-SA 4.0`. This lets us incorporate other content under a compatible license. 
