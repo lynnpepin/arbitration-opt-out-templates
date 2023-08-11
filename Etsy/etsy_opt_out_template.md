@@ -20,6 +20,3 @@ Specifically, I am referring to the new Etsy terms of service posted at https://
 Please update your records accordingly.
 
 Best regards,
-
-
-P.S. You have a typo in your Terms of Service in "Section G. Opt out.", stating "Specifically, **iIf** you are a new user". 
