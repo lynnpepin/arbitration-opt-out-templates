@@ -7,13 +7,13 @@ This repository provides templates to opt out of arbitration clauses (and relate
 
 **Important:** This repository is not produced by lawyers, does not constitute legal advice, and we are not your representatives.
 
-# Quick links to opt out templates
+# Services you can opt out from
 
 - [Discord](/Discord)
 
 - [Snapchat](/Snapchat)
 
-- Etsy (coming soon!)
+- [Etsy](/Etsy)
 
 - 
 
