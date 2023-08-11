@@ -10,6 +10,6 @@ Username:
 
 Email:
 
-Please update your records accordingly. 
+Please update your records accordingly.
 
 Best regards,
