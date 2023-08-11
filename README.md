@@ -13,7 +13,6 @@ This repository provides templates to opt out of arbitration clauses (and relate
 - [Snapchat](/Snapchat)
 
 
-
 # Contribution
 
 Each service is listed in a folder. At minimum, please include:
@@ -27,7 +26,7 @@ Each service is listed in a folder. At minimum, please include:
   - PDF
   - .docx
 
-In the per-service README, you are welcome to include any relevant articles or legal cases involving the service and arbitration.
+In the per-service README, you are welcome to include any relevant articles or legal cases involving the service and arbitration. You are also welcome to provide a summary of the arbitration clause, related clauses, and the opt-out provisions.
 
 # License
 

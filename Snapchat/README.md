@@ -6,25 +6,31 @@ Updated: 2023-Aug-15th.
 
 # Using the template
 
-TODO
+To opt out of Snapchat's arbitration clause in the United States, use[this template](./snapchat_opt_out_template.md):
 
-There are six locations you need to update in the template:
+1. Fill out the following six locations:
 
-- [ ] Legal name
+    1. Legal name
 
-- [ ] Address
+    2. Address
 
-- [ ] Snapchat username
+    3. Snapchat username
 
-- [ ] Email address used to set up the account
+    4. Email address used to set up the account
 
-- [ ] Email address currently used with the account
+    5. Email address currently used with the account
 
-- [ ] Signature (if printed)
+    6. Signature (if printed)
 
-# SnapChat arbitration opt-out
+2. Send the clause to Snapchat by:
 
-TLDR: SnapChat's US Terms of Service have:
+    1. Emailing them at [arbitration-opt-out@snap.com](mailto:arbitration-opt-out@snap.com), or
+
+    2. Printing out the template and mailing it to "*Snap Inc., Attn: Arbitration Opt-out, 3000 31st Street, Santa Monica, CA 90405*"
+
+# Snapchat arbitration summary
+
+Here is a summary of what's included in Snapchat's arbitration clauses in the US:
 
   - An arbitration clause
 
