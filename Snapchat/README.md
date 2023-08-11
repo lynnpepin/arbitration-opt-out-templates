@@ -10,9 +10,9 @@ To opt out of Snapchat's arbitration clause in the United States, use one of the
 
  - [Click here for a Markdown opt-out template](./snapchat_opt_out_template.md):
 
- - Click here for a Microsoft Word opt-out template. (Coming soon!)
+ - [Click here for a Microsoft Word opt-out template.](./snapchat_opt_out_template.docx)
 
- - Click here for a PDF opt-out template. (Coming soon!)
+ - [Click here for a PDF opt-out template.](./snapchat_opt_out_template.pdf)
 
 
 1. Fill out the following six locations:
