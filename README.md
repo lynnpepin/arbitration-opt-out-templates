@@ -13,6 +13,9 @@ This repository provides templates to opt out of arbitration clauses (and relate
 
 - [Snapchat](/Snapchat)
 
+- Etsy (coming soon!)
+
+- 
 
 # Contribution
 

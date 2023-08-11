@@ -1,3 +1,6 @@
+Opt out of Snapchat's arbitration clause and class-action waiver
+===
+
 Updated: 2023-Aug-15th.
 
 **Confirm this date matches Snapchat's most recent Terms of Service, [located at this link](https://www.snap.com/en-US/terms). These documents were prepared by laypersons and not lawyers. We are not your representatives.**

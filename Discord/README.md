@@ -1,5 +1,7 @@
-Updated: 2023-Mar-27.
+Opt out of Discord's arbitration clause and class-action waiver
+===
 
+Updated: 2023-Mar-27.
 
 **Confirm this date matches Discord's most recent Terms of Service, [located at this link](https://discord.com/terms). These documents were prepared by laypersons and not lawyers. We are not your representatives.**
 
