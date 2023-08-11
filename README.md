@@ -16,6 +16,24 @@ This repository provides templates to opt out of arbitration clauses (and relate
 
 # Contribution
 
+There are many ways you can contribute to this project!
+
+## Raising an issue for a missing template
+
+Want to opt out of a service that isn't listed here? Make an issue for it to bring it to our attention!
+
+## Raise an issue if something is confusing!
+
+If a template is unclear or you don't know what to do, please raise an issue and let us know. The goal is to make this as accessible as possible.
+
+## Update an opt-out template
+
+Terms change constantly. Updating a template or raising an issue when it's out of date is very helpful.
+
+## Contribute a new opt-out template!
+
+There are so many services, and this repository will never be complete. Creating a new template is immensely useful.
+
 Each service is listed in a folder. At minimum, please include:
 
 - A **README.md** which includes:
@@ -32,4 +50,4 @@ In the per-service README, you are welcome to include any relevant articles or l
 
 # License
 
-Consider the contents of this repository to be `CC-BY-SA 4.0`. This lets us incorporate other content under a compatible license. 
+[Consider the contents of this repository to be `CC-BY-SA 4.0`.](https://creativecommons.org/licenses/by-sa/4.0/) This lets us incorporate other content under a compatible license. 
