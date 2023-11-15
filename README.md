@@ -15,7 +15,35 @@ This repository provides templates to opt out of arbitration clauses (and relate
 
 - [Etsy](/Etsy)
 
-- 
+- [OpenAI (ChatGPT)](/OpenAI_ChatGPT)
+
+- Venmo (coming tbd)
+
+- Adobe (coming tbd)
+
+- Paypal (coming tbd)
+
+- Tinder (coming tbd)
+
+- More to be listed!
+
+## Wall of shame
+
+Some services have arbitration clauses, class-action waivers, and jury-trial waivers with no opt-out clause. These are extreme, these are awful, and **you should never do business with these services.** There's a reason they don't even offer a provision to opt out.
+
+- [Mobilecoin (Signal Payments)](https://mobilecoin.com/terms-of-use.html)
+
+- [Cohost](https://cohost.org/)
+
+- More to be listed!
+
+## Wall of fame
+
+Some services don't come with an arbitration clause at all. This is a good thing.
+
+- [USMobile](https://www.usmobile.com/terms)
+
+- More to be listed!
 
 # Contribution
 
