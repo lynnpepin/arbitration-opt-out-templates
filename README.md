@@ -19,17 +19,6 @@ This repository provides templates to opt out of arbitration clauses (and relate
 
 - [OpenAI (ChatGPT)](/OpenAI_ChatGPT)
 
-- 
-
-- Venmo (coming tbd)
-
-- Adobe (coming tbd)
-
-- Paypal (coming tbd)
-
-- Tinder (coming tbd)
-
-- More to be listed!
 
 ## Wall of shame
 
