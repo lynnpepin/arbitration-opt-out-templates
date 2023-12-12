@@ -9,7 +9,7 @@ Updated: 2023-Nov-30.
 
 # Arbitration opt out template
 
-To opt out of Discord's arbitration clause in the United States, use this opt-out notice template below.
+To opt out of 23andMe's arbitration clause in the United States, use this opt-out notice template below.
 
 1. Fill out your username, email, and signature.
 
@@ -21,7 +21,7 @@ To 23andMe,
 
 I am declining both the agreement to arbitrate and the class-action waiver in the 23andMe Terms of Service.
 
-Specifically, I am referring to the new Discord terms of service posted at https://www.23andme.com/legal/terms-of-service/ on 2023 November 30th. I am opting out of the arbitration clause and class action waiver, per section 5.i.
+Specifically, I am referring to the new 23andMe's Terms of Service posted at https://www.23andme.com/legal/terms-of-service/ on 2023 November 30th. I am opting out of the arbitration clause and class action waiver, per section 5.i.
 
 **Consider this an unequivocal statement that I wish to opt out of the arbitration clause and the class-action waiver in the 23 and Me Terms of Service.** My account information is as follows:
 
