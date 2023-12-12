@@ -9,6 +9,8 @@ This repository provides templates to opt out of arbitration clauses (and relate
 
 # Services you can opt out from
 
+- [23andMe](/23andMe)
+
 - [Discord](/Discord)
 
 - [Snapchat](/Snapchat)
@@ -16,6 +18,8 @@ This repository provides templates to opt out of arbitration clauses (and relate
 - [Etsy](/Etsy)
 
 - [OpenAI (ChatGPT)](/OpenAI_ChatGPT)
+
+- 
 
 - Venmo (coming tbd)
 

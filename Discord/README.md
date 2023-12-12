@@ -8,19 +8,33 @@ Updated: 2023-Mar-27.
 ---
 
 # Using the template
+# Arbitration opt out template
 
-To opt out of Discord's arbitration clause in the United States, use this **[opt-out notice template](./discord_opt_out_template.md)**.
+To opt out of Discord's arbitration clause in the United States, use this opt-out notice template below.
 
-1. Fill out the following sections:
-
-    - Username
-
-    - Email
-
-    - Signature
+1. Fill out your username, email, and signature.
 
 2. Email your opt-out notice to [arbitration-opt-out@discord.com](mailto:arbitration-opt-out@discord.com)
 
+## Copy this template
+
+To Discord,
+
+I am declining both the agreement to arbitrate and the class-action waiver in the new Discord Terms of Service.
+
+Specifically, I am referring to the new Discord terms of service posted at https://discord.com/terms on 2023 February 24, effective 2023 March 27. I am opting out of the arbitration clause, and I am stating my disagreement to the class-action waivers, per section 14 "Settling disputes between you and Discord".
+
+**Consider this an unequivocal statement that I wish to opt out of the arbitration clause and the class-action waiver in the Discord Terms of Service.** My account information is as follows:
+
+Username: *signature here*
+
+Email: *signature here*
+
+Please update your records accordingly.
+
+Best regards,
+
+*signature here*
 
 # Discord arbitration summary
 
