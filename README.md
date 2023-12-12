@@ -28,15 +28,11 @@ Some services have arbitration clauses, class-action waivers, and jury-trial wai
 
 - [Cohost](https://cohost.org/)
 
-- More to be listed!
-
 ## Wall of fame
 
 Some services don't come with an arbitration clause at all. This is a good thing.
 
 - [USMobile](https://www.usmobile.com/terms)
-
-- More to be listed!
 
 # Contribution
 
@@ -74,4 +70,4 @@ In the per-service README, you are welcome to include any relevant articles or l
 
 # License
 
-[Consider the contents of this repository to be `CC-BY-SA 4.0`.](https://creativecommons.org/licenses/by-sa/4.0/) This lets us incorporate other content under a compatible license. 
+[Consider the contents of this repository to be `CC-BY-SA 4.0`.](https://creativecommons.org/licenses/by-sa/4.0/)
