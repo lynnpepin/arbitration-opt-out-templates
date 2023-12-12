@@ -70,4 +70,4 @@ In the per-service README, you are welcome to include any relevant articles or l
 
 # License
 
-[Consider the contents of this repository to be `CC-BY-SA 4.0`.](https://creativecommons.org/licenses/by-sa/4.0/)
+[Consider the contents of this repository to be `CC-BY-SA 4.0`.](https://creativecommons.org/licenses/by-sa/4.0/).
