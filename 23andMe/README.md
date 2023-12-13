@@ -23,7 +23,7 @@ I am declining both the agreement to arbitrate and the class-action waiver in th
 
 Specifically, I am referring to the new 23andMe's Terms of Service posted at https://www.23andme.com/legal/terms-of-service/ on 2023 November 30th. I am opting out of the arbitration clause and class action waiver, per section 5.i.
 
-**Consider this an unequivocal statement that I wish to opt out of the arbitration clause and the class-action waiver in the 23 and Me Terms of Service.** My account information is as follows:
+**Consider this an unequivocal statement that I wish to opt out of the arbitration clause and the class-action waiver in the 23andMe Terms of Service.** My account information is as follows:
 
 Name: *Name here*
 
