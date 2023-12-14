@@ -13,7 +13,9 @@ To opt out of 23andMe's arbitration clause in the United States, use this opt-ou
 
 1. Fill out your username, email, and signature.
 
-2. Email your opt-out notice to [arbitrationoptout@23andme.com](mailto:arbitrationoptout@23andme.com), and CC [legal@23andme.com](mailto:legal@23andme.com).
+2. Email your opt-out notice to [arbitrationoptout@23andme.com](mailto:arbitrationoptout@23andme.com).
+
+  - Optionally CC both [legal@23andme.com](mailto:legal@23andme.com) and [customercare@23andme.com](mailto:customercare@23andme.com). 23andMe has pointed users to different email addresses in different communications.
 
 ## Copy this template
 
@@ -40,7 +42,7 @@ Best regards,
 
 23andMe's Terms of Service include a "Dispute Resolution and Arbitration" section which includes a mandatory arbitration clause and a class action waiver. To opt-out, users must send an email to [arbitrationoptout@23andme.com](mailto:arbitrationoptout@23andme.com). 23andMe does not explicitly list what data must be provided when opting out,.
 
-Despite the terms pointing users to [arbitrationoptout@23andme.com](mailto:arbitrationoptout@23andme.com), the *email* they sent pointed to [legal@23andme.com](mailto:legal@23andme.com). For best measure, we recommend sending the optout to both addresses.
+The terms point users to [arbitrationoptout@23andme.com](mailto:arbitrationoptout@23andme.com), but the *emails* they sent pointed to [legal@23andme.com](mailto:legal@23andme.com) and [customercare@23andme.com](mailto:customercare@23andme.com). This inconsistent communication from 23andMe has confused customers who wish to opt out of the new Terms of Service, so we recommend sending to all three addresses.
 
 # Related cases
 
