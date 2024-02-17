@@ -19,6 +19,10 @@ This repository provides templates to opt out of arbitration clauses (and relate
 
 - [OpenAI (ChatGPT)](/OpenAI_ChatGPT)
 
+- [Hulu, Disney+, and ESPN+](/DisneyPlus)
+
+- Zoom
+
 
 ## Wall of shame
 
