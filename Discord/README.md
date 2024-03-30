@@ -1,13 +1,12 @@
 Opt out of Discord's arbitration clause and class-action waiver
 ===
 
-Updated: 2023-Mar-27.
+Updated: 2024-Apr-15.
 
 **Confirm this date matches Discord's most recent Terms of Service, [located at this link](https://discord.com/terms). These documents were prepared by laypersons and not lawyers. We are not your representatives.**
 
 ---
 
-# Using the template
 # Arbitration opt out template
 
 To opt out of Discord's arbitration clause in the United States, use this opt-out notice template below.
