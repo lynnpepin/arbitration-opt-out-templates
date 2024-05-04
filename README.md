@@ -21,6 +21,8 @@ This repository provides templates to opt out of arbitration clauses (and relate
 
 - [Hulu, Disney+, and ESPN+](/DisneyPlus)
 
+- [OfferUp](/OfferUp)
+
 - Zoom
 
 
