@@ -25,6 +25,8 @@ This repository provides templates to opt out of arbitration clauses (and relate
 
 - [Albertsons / Safeway](/Albertsons)
 
+- [Visible](/Visible)
+
 - Zoom
 
 
