@@ -10,22 +10,14 @@ This repository provides templates to opt out of arbitration clauses (and relate
 # Services you can opt out from
 
 - [23andMe](/23andMe)
-
-- [Discord](/Discord)
-
-- [Snapchat](/Snapchat)
-
-- [Etsy](/Etsy)
-
-- [OpenAI (ChatGPT)](/OpenAI_ChatGPT)
-
-- [Hulu, Disney+, and ESPN+](/DisneyPlus)
-
-- [OfferUp](/OfferUp)
-
 - [Albertsons / Safeway](/Albertsons)
-
-- Zoom
+- [CashApp](/CashApp)
+- [Discord](/Discord)
+- [Etsy](/Etsy)
+- [Hulu, Disney+, and ESPN+](/DisneyPlus)
+- [OfferUp](/OfferUp)
+- [OpenAI (ChatGPT)](/OpenAI_ChatGPT)
+- [Snapchat](/Snapchat)
 
 
 ## Wall of shame
@@ -34,7 +26,7 @@ Some services have arbitration clauses, class-action waivers, and jury-trial wai
 
 - [Mobilecoin (Signal Payments)](https://mobilecoin.com/terms-of-use.html)
 
-- [Cohost](https://cohost.org/)
+- [Cohost](https://cohost.org/rc/content/tos)
 
 ## Wall of fame
 
