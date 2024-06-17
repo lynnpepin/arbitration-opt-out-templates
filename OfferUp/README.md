@@ -27,11 +27,11 @@ Specifically, I am referring to the new OfferUp terms of service posted at https
 
 My account information is as follows:
 
-Email: *signature here*
+Email: *Email here*
 
-Full name: *signature here*
+Full name: *Full name here*
 
-Address: *signature here*
+Address: *Address here*
 
 Please update your records accordingly.
 

@@ -29,11 +29,11 @@ Specifically, I am referring to the new Albertsons terms of service posted at ht
 
 My account information is as follows:
 
-Email: *signature here*
+Email: *Email here*
 
-Full name: *signature here*
+Full name: *Full name here*
 
-Address: *signature here*
+Address: *Address here*
 
 Membership / purchase information: *Provide here, if relevant*.
 
