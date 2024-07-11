@@ -19,6 +19,7 @@ This repository provides templates to opt out of arbitration clauses (and relate
 - [OpenAI (ChatGPT)](/OpenAI_ChatGPT)
 - [Snapchat](/Snapchat)
 - [SquareSpace](/Squarespace/)
+- [Vimeo](/Vimeo)
 
 
 ## Wall of shame
