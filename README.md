@@ -15,6 +15,7 @@ This repository provides templates to opt out of arbitration clauses (and relate
 - [Discord](/Discord)
 - [Etsy](/Etsy)
 - [Hulu, Disney+, and ESPN+](/DisneyPlus)
+- [MoviesAnywhere](/MoviesAnywhere)
 - [OfferUp](/OfferUp)
 - [OpenAI (ChatGPT)](/OpenAI_ChatGPT)
 - [Snapchat](/Snapchat)
