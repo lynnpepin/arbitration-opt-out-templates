@@ -1,4 +1,4 @@
-Arbitration Opt-Out
+Arbitration Opt-Out Notice
 
 I am declining both the agreement to arbitrate and the class-action waiver in the new GoFundMe Terms of Service.
 
