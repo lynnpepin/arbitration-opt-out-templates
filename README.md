@@ -14,6 +14,7 @@ This repository provides templates to opt out of arbitration clauses (and relate
 - [CashApp](/CashApp)
 - [Discord](/Discord)
 - [Etsy](/Etsy)
+- [GoFundMe](/GoFundMe)
 - [Hulu, Disney+, and ESPN+](/DisneyPlus)
 - [MoviesAnywhere](/MoviesAnywhere)
 - [OfferUp](/OfferUp)
