@@ -11,11 +11,11 @@ Updated: 2024-Jan-25th.
 
 To opt out of the Disney+ / ESPN+ arbitration clause in the United States, use one of these templates:
 
- - [Click here for a Markdown opt-out template](./disney_plus_opt_out_template.md):
+ - [Click here for a Markdown opt-out template](./disneyplus_opt_out_template.md):
 
- - [Click here for a Microsoft Word opt-out template.](./disney_plus_opt_out_template.docx)
+ - [Click here for a Microsoft Word opt-out template.](./disneyplus_opt_out_template.docx)
 
- - [Click here for a PDF opt-out template.](./disney_plus_opt_out_template.pdf)
+ - [Click here for a PDF opt-out template.](./disneyplus_opt_out_template.pdf)
 
 
 1. Fill out the following six locations:
