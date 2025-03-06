@@ -27,7 +27,7 @@ Specifically, I am referring to the new Discord terms of service posted at https
 
 Username: *signature here*
 
-Email: *signature here*
+Email: *Email here*
 
 Please update your records accordingly.
 

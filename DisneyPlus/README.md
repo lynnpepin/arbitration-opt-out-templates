@@ -1,9 +1,12 @@
 Opt out of Disney Plus's arbitration clause and class-action waiver
 ===
 
-Updated: 2024-Jan-25th.
+**Disney maintains several different Terms of Service:**
 
-**Confirm this date matches the Disney+ / ESPN+ Subscriber Agreement, [located at this link](https://www.disneyplus.com/legal/subscriber-agreement). These documents were prepared by laypersons and not lawyers. We are not your representatives.**
+- [Disney Terms of Use](https://www.disneyplus.com/legal/disney-terms-of-use), updated 2024-May-24th,
+- [Disney+ and ESPN+ Subscriber agreement](https://www.disneyplus.com/legal/subscriber-agreement), updated 2024-January-25th.
+
+**These documents were prepared by laypersons and not lawyers. We are not your representatives.**
 
 ---
 
@@ -18,7 +21,7 @@ To opt out of the Disney+ / ESPN+ arbitration clause in the United States, use o
  - [Click here for a PDF opt-out template.](./disneyplus_opt_out_template.pdf)
 
 
-1. Fill out the following six locations:
+1. Fill out the following locations:
 
     1. Legal name
 
@@ -30,38 +33,6 @@ To opt out of the Disney+ / ESPN+ arbitration clause in the United States, use o
 
 2. Send the opt-out notice to Disney by printing out the template and mailing it to "*Disney Opt-Out, P.O. Box 11565, Burbank, California 91510*"
 
-# Disney Plus arbitration summary
-
-Here is a summary of what's included in the Disney Plus arbitration clauses in the US:
-
-  - A binding arbitration clause
-
-  - A class-action waiver
-
-  - A jury trial waiver
-
-  - Opt-out provisions
-
-The opt-out provision:
-
-  - Allows for notice by mail
-
-  - Explicitly disallows for notice by email
-
-  - Has a 30-day notification period
-
-The opt-out provision requires the following:
-
-  - Unequivocal opt-out of both arbitration provisions and the class-action waiver
-
-  - Name
-
-  - Address
-
-  - The email address used to set up the account
-
-  - Notice sent by mail to Disney Opt-Out, P.O. Box 11565, Burbank, California 91510
-
 
 # Related cases
 
@@ -69,4 +40,4 @@ There are active lawsuits against Disney+. [Anyone with a Facebook account who w
 
 There are many lawsuits against Disney as an employer, with a recent one covering [alleged gendered pay disparities](https://spectrumnews1.com/ca/la-west/business/2023/12/08/disney-class-action-lawsuit-pay-disparity).
 
-This is not an exhaustive list!
+In 2023, [a woman died as a result of food served in Disney World.](https://www.bbc.com/news/articles/c8jl0ekjr0go) Her husband is suing for $50,000, alleging Disney World's restaurant failed to take proper food safety precautions. Disney is dismissing the wrongful death suit in 2024, because the husband agreed to the Disney+ arbitration agreement in 2019 during a one-month free trial.
