@@ -1,7 +1,7 @@
 Opt out of Discord's arbitration clause and class-action waiver
 ===
 
-Updated: 2024-Apr-15.
+Updated: 2025-Sep-29.
 
 **Confirm this date matches Discord's most recent Terms of Service, [located at this link](https://discord.com/terms). These documents were prepared by laypersons and not lawyers. We are not your representatives.**
 
@@ -21,7 +21,7 @@ To Discord,
 
 I am declining both the agreement to arbitrate and the class-action waiver in the new Discord Terms of Service.
 
-Specifically, I am referring to the new Discord terms of service posted at https://discord.com/terms, effective 2024 April 15. I am opting out of the arbitration clause, and I am stating my disagreement to the class-action waivers, per section 16 "Settling disputes between you and Discord".
+Specifically, I am referring to the new Discord terms of service posted at https://discord.com/terms, effective 2025 September 29. I am opting out of the arbitration clause, and I am stating my disagreement to the class-action waivers, per section 16 "Settling disputes between you and Discord".
 
 **Consider this an unequivocal statement that I wish to opt out of the arbitration clause and the class-action waiver in the Discord Terms of Service.** My account information is as follows:
 
